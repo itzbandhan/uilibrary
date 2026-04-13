@@ -34,3 +34,4 @@ content: [
   "./node_modules/uielemniv/dist/**/*.{js,ts,jsx,tsx}" // <--- Important
 ],
 ```
+# 2.0
